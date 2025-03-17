@@ -30,7 +30,7 @@ The interactive Power BI dashboard provides:
 - Performance comparison across different booking platforms.
 
 📌 **Dashboard Preview:**
-![Dashboard Overview](Report_Details/Atliq_grand_Data_analysis.jpg)
+![Dashboard Overview](https://github.com/naveensurla/AtliQ-Grands---Hospitality-Revenue-Insights/blob/f22cb9a4072d00e42a23e6a7454f25f4b9a35413/Report_Details/Atliq%20grand%20Data%20analysis.jpg?raw=true)
 
 
 📌 **Tooltip Demonstration:**
