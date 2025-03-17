@@ -18,7 +18,8 @@ The data model consists of multiple tables including:
 - **Customer Feedback**: Guest ratings and reviews across properties.
 - **Hotel Details**: Location, category, and occupancy capacity.
 
-*📌 (Insert a screenshot of the data model here)*
+📌 **Data Model Diagram:**
+![Data Model](Data_Model/data_model.png)
 
 ## **Dashboard Overview**
 The interactive Power BI dashboard provides:
@@ -27,7 +28,11 @@ The interactive Power BI dashboard provides:
 - Guest satisfaction analysis based on ratings and reviews.
 - Performance comparison across different booking platforms.
 
-*📌 (Insert a screenshot of the dashboard here)*
+📌 **Dashboard Preview:**
+![Dashboard Overview](Report_Details/Atliq_grand_Data_analysis.jpg)
+
+📌 **Tooltip Demonstration:**
+![Hover Example](Report_Details/Hover.png)
 
 ## **Key Metrics & Insights**
 1. **Revenue Performance:**
@@ -56,3 +61,9 @@ The interactive Power BI dashboard provides:
 - **DAX** for custom calculations and measures.
 - **Power Query** for data transformation and cleaning.
 
+## **About Me**
+I am a passionate Data Analyst dedicated to converting raw data into meaningful insights. Connect with me on [LinkedIn](#) or explore more projects on [GitHub](#).
+
+---
+
+This README provides a structured and engaging overview of the project, ensuring clarity for anyone exploring the repository.
