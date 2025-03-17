@@ -32,6 +32,7 @@ The interactive Power BI dashboard provides:
 📌 **Dashboard Preview:**
 ![Dashboard Overview](Report_Details/Atliq_grand_Data_analysis.jpg)
 
+
 📌 **Tooltip Demonstration:**
 ![Hover Example](Report_Details/Hover.png)
 
