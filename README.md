@@ -64,8 +64,6 @@ The interactive Power BI dashboard provides:
 - **Power Query** for data transformation and cleaning.
 
 ## **About Me**
-I am a passionate Data Analyst dedicated to converting raw data into meaningful insights. Connect with me on [LinkedIn](#) or explore more projects on [GitHub](#).
+I am an aspiring Data Analyst looking for a career transition, with a background as an Engineer in Project Sales. Passionate about transforming raw data into meaningful insights, I aim to leverage analytical skills to drive data-driven decision-making.  
 
----
-
-This README provides a structured and engaging overview of the project, ensuring clarity for anyone exploring the repository.
+Connect with me on [LinkedIn](https://www.linkedin.com/in/naveen-surla-587565242/) or explore more projects on [GitHub](https://github.com/naveensurla).
