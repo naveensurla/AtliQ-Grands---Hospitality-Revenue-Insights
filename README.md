@@ -19,7 +19,8 @@ The data model consists of multiple tables including:
 - **Hotel Details**: Location, category, and occupancy capacity.
 
 📌 **Data Model Diagram:**
-![Data Model](Data_Model/data_model.png)
+![Data Model](Data_Model/data%20model.png)
+
 
 ## **Dashboard Overview**
 The interactive Power BI dashboard provides:
