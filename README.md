@@ -1,74 +1,58 @@
-# 🏨 AtliQ Grands - Hospitality Revenue Insights  
+# **AtliQ Grands Hospitality Insights - Power BI Dashboard**
 
-## 📌 Project Overview  
-This project is part of the **[Codebasics Resume Project Challenge](https://codebasics.io/challenge/codebasics-resume-project-challenge/4)**.  
-
-AtliQ Grands, a five-star luxury hotel chain in India, has been losing **market share and revenue** due to rising competition and ineffective decision-making.  
-The **Revenue Management Team** has hired a **Data Analyst (You!)** to uncover critical insights and help them regain profitability.  
-
-## 🎯 Business Objectives  
-✔ **Revenue Optimization** – Identify trends, revenue drivers, and performance gaps.  
-✔ **Occupancy & Booking Trends** – Understand customer behavior and seasonal patterns.  
-✔ **Data-Driven Decision Making** – Enable the management to make strategic improvements.  
+🔗 **[Live Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOTZkZDU5YTMtNWJiNS00N2U2LWI4NWMtY2QwOTAxMjBhZDNiIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)**
 
 ---
+## **Project Overview**
+AtliQ Grands, a premium five-star hotel chain in India, has been experiencing a decline in market share and revenue. To counteract this, the management has decided to incorporate Business and Data Intelligence for informed decision-making. This project provides a comprehensive Power BI dashboard with key performance metrics and actionable insights to help AtliQ Grands regain its competitive edge.
 
-## 📊 Key Insights & Metrics  
+## **Objectives**
+- Develop key business metrics to track performance.
+- Build an interactive dashboard following stakeholder requirements.
+- Identify trends and provide actionable recommendations for revenue growth.
 
-### 🔹 **Revenue & Profitability Analysis**  
-✔ **Revenue Breakdown** – Total revenue trends across months and hotel locations.  
-✔ **RevPAR (Revenue Per Available Room)** – Key performance metric tracking room revenue.  
-✔ **ADR (Average Daily Rate)** – Evaluating the effectiveness of pricing strategies.  
-✔ **Profit Margin Analysis** – Understanding cost vs. revenue to improve profitability.  
+## **Data Model**
+The data model consists of multiple tables including:
+- **Bookings Data**: Check-in/check-out dates, room type, and booking platform.
+- **Revenue Data**: Revenue per available room (RevPAR), average daily rate (ADR), and total revenue.
+- **Customer Feedback**: Guest ratings and reviews across properties.
+- **Hotel Details**: Location, category, and occupancy capacity.
 
-### 🔹 **Occupancy & Customer Behavior**  
-✔ **Occupancy Rate (%)** – Identifying underperforming hotels and peak seasons.  
-✔ **Booking Trends** – Direct vs. third-party bookings and their impact on revenue.  
-✔ **Customer Segmentation** – Finding the highest revenue-generating customer types.  
+*📌 (Insert a screenshot of the data model here)*
 
-### 🔹 **Market Position & Growth Potential**  
-✔ **Market Share Trends** – Comparing AtliQ Grands' performance vs. competitors.  
-✔ **Seasonality Impact** – High-demand vs. off-season performance fluctuations.  
-✔ **Future Revenue Projections** – Data-driven forecasting for strategic planning.  
+## **Dashboard Overview**
+The interactive Power BI dashboard provides:
+- Revenue trends and breakdowns by property.
+- Occupancy rate trends to assess utilization efficiency.
+- Guest satisfaction analysis based on ratings and reviews.
+- Performance comparison across different booking platforms.
 
----
+*📌 (Insert a screenshot of the dashboard here)*
 
-## 🔗 **Live Dashboard**  
-🚀 **Explore the interactive Power BI dashboard:**  
-[![Power BI Dashboard](your-thumbnail-image-link)](https://app.powerbi.com/view?r=eyJrIjoiOTZkZDU5YTMtNWJiNS00N2U2LWI4NWMtY2QwOTAxMjBhZDNiIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)  
+## **Key Metrics & Insights**
+1. **Revenue Performance:**
+   - **Total Revenue:** Analyzed across different time periods and properties.
+   - **Revenue by Property:** Identifies top-performing and underperforming locations.
+   
+2. **Occupancy Insights:**
+   - **Overall Occupancy Rate:** Displays room utilization effectiveness.
+   - **Occupancy by Property:** Highlights variations in demand across locations.
 
-*(Click on the image or link to access the live dashboard)*  
+3. **Guest Experience:**
+   - **Average Rating:** Measures guest satisfaction levels.
+   - **Ratings by Property:** Pinpoints areas for service improvement.
 
----
+4. **Booking Platform Analysis:**
+   - **Platform Contribution:** Evaluates the performance of different platforms in driving revenue.
 
-## 🛠️ Tools & Technologies  
-- **Power BI** – Data visualization, DAX calculations, and dashboard development.  
-- **Excel** – Data pre-processing and transformation.  
-- **SQL (if applicable)** – Querying structured data for deeper insights.  
+## **Recommendations**
+1. **Improve Occupancy Rates:** Optimize off-peak pricing and introduce targeted promotions.
+2. **Enhance Guest Experience:** Address low-rated properties by improving services and amenities.
+3. **Optimize Booking Channels:** Focus marketing efforts on high-performing platforms while improving visibility on underutilized ones.
+4. **Implement Dynamic Pricing:** Introduce variable pricing strategies based on demand fluctuations.
 
----
+## **Tools & Technologies Used**
+- **Power BI** for interactive data visualization.
+- **DAX** for custom calculations and measures.
+- **Power Query** for data transformation and cleaning.
 
-## 🏗️ Data Model & Structure  
-The **Power BI data model** consists of multiple tables, optimized for analysis:  
-
-![Data Model](your-data-model-image-link)  
-
-*(Replace the above link with your actual Power BI data model screenshot.)*  
-
----
-
-## 📂 Files & Downloads  
-
-📌 **Download the Power BI (.pbix) File:** [Google Drive Link](your-pbix-file-link)  
-
-📌 **Dataset:**  
-- Contains hotel revenue, occupancy rates, booking channels, customer details, and seasonal trends.  
-- Provided as part of the **Codebasics Challenge**.  
-
----
-
-## 🚀 How to Use  
-
-1️⃣ **Clone the Repository**  
-```bash
-git clone https://github.com/yourgithubusername/hospitality-revenue-insights.git
